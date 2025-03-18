@@ -8,5 +8,5 @@ Delta Mobile Application
 
 ## Learn more
 
-[https://delta.kim/zh-CN/download](https://delta.kim/zh-CN/download)
+[https://delta.kim/auto/download](https://delta.kim/auto/download)
 

@@ -47,5 +47,6 @@ app.*.map.json
 .fvm/
 
 .env
-ADB debug.text
-lib/
+ADB debug.md
+lib/*
+!lib/i18n
